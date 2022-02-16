@@ -1,7 +1,6 @@
 // Preguntamos el nombre y saludamos al usuario
-let saludarUsuario = prompt("Ingrese su nombre")
-alert("Lo estabamos esperando " + saludarUsuario)
-
+let saludarUsuario = prompt("Ingrese su nombre");
+alert("Lo estabamos esperando " + saludarUsuario);
 
 //Pedimos que el usuario ingrese un numero menor a 20 para empezar a contar
 let i = prompt("Ingrese un numero menor a 20");
